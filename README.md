@@ -53,13 +53,13 @@ Don't forget to give the project a star! Thanks again!
 
 What you get here:
 * A Library desktop app meet all basic function management of a library.
-* * Authenttication system(login, logout, signup, change password).
-* * Authorization according to position (hard code -.-)
-* * User management, black list, remove black list.
-* * Book, supplier, author,..
-* * Book Borrowing and Returning System: The limit for borrowed books is set at 3, with a borrowing period of 2 weeks. Extension of the borrowing period is allowed (1 time per a book), but overdue books cannot be extended and will incur a penalty.
-* * Export bill, penalty bill (faulty).:smile:
-* * The interface is aesthetically pleasing, allowing customization of colors and background color according to personal preference.
+  * Authenttication system(login, logout, signup, change password).
+  * Authorization according to position (hard code -.-)
+  * User management, black list, remove black list.
+  * Book, supplier, author,..
+  * Book Borrowing and Returning System: The limit for borrowed books is set at 3, with a borrowing period of 2 weeks. Extension of the borrowing period is allowed (1 time per a book), but overdue books cannot be extended and will incur a penalty.
+  * Export bill, penalty bill (faulty).:smile:
+  * The interface is aesthetically pleasing, allowing customization of colors and background color according to personal preference.
 * And some thing more (may be).
 
 ## Contact
