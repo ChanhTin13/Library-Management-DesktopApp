@@ -64,6 +64,6 @@ What you get here:
 
 ## Contact
 
-ujjal zaman - [Linkdeind](https://www.linkedin.com/in/chanh-tin-b3a665275/)
+Chanh Tin - [Linkdeind](https://www.linkedin.com/in/chanh-tin-b3a665275/)
 
 Project Link: [https://github.com/ChanhTin13/QuanLyThuVien-ver2](https://github.com/ChanhTin13/QuanLyThuVien-ver2)
