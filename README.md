@@ -31,7 +31,7 @@ _Below is an example of how you can instruct your audience on installing and set
  <p align="left">Open SQL Server and run file Doan_SQL_QLTV.sql to create database.</p>
  <p>Run project in Visual Studio</p>
  <p>When Pop up Change Local Connection is on, choose the right connection string to your database.</p>
- <p>Then enjoy :))</p>
+ <p>Register (the first account will be admin) then enjoy :))</p>
  
  
 <!-- CONTRIBUTING -->
